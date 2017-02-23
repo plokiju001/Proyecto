@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-feb-2017, 14:05:54
+    Author     : SHALOM
+*/
+body{
+    padding-left: 11em;
+    font-family: Palatino Linotype;
+    font-size: 1.5em;
+}
+
+
+#menu_gral{
+    background-color: #848484;
+list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 10em;
+    left: 1em;
+    width: 80%; 
+}
+
+#menu_gral ul {
+    list-style-type: none; 
+    text-align: center;
+    font-size: 0;
+}
+
+#menu_gral li ul {
+    position: absolute;
+    width: 9em;
+    overflow: hidden;
+}
+
+.navbar-inverse {
+width: 100%;
+    
+}
+
+
+
+
+.container-fluid {
+
+}
+
+#button {
+    background-color: #ffdbdb;
+  
+    font-family: Palatino Linotype;
+    font-size: 1.5em;
+}
+
+#sp1{
+    font-size: 12px; 
+    color: rgb(217,144,0);
+    position: absolute; 
+    left: 55px; top: 8px;
+}
+#sp2{
+    font-size: 12px; 
+    color: rgb(217,144,0);
+    position: absolute; 
+    left: 55px; top: 18px;
+}
+
+#nom{
+    float: right;
+}
+#contLogo{
+    position: absolute;
+    top: 30px; right: 0px;
+
+}
+#dirCem{
+
+    height: 130px; width: 450px; 
+    float: right; 
+    position: relative;
+}
+
+#sp11{
+    font-size: 35px; 
+    font-weight: initial; 
+    color: #888; 
+    position: absolute; 
+    left: 15px; top: 30px;
+}
+#sp21{
+    font-size: 35px; 
+    color: #888; 
+    position: absolute; 
+    right: 10px; bottom: 41px;
+}
+
+
+
+#barraN1{
+    height: 5px; width: 280px; 
+    background-color: #f0ad4e; 
+    position: absolute; 
+    left: 0px; bottom: 1px;
+}
+
